@@ -1,0 +1,23 @@
+{
+	"DatabaseFolder" : "C:\\Users\\user\\Documents\\UiPath\\BlizzardAutomation\\Data\\Input\\",
+	"PDFFolder" : "C:\\Users\\user\\Documents\\UiPath\\BlizzardAutomation\\Data\\Output\\",
+	"OrchestratorQueueName" : "CompanyList",
+	"logF_BusinessProcessName" : "Framework",
+
+	"OutlookCredentials" : "OutlookCredentials",
+	"Mailbox" : "Inbox",
+	"Recipient" : "MPotts@academytrainee.com",
+	"ReportTemplate" : "C:\\Users\\user\\Documents\\UiPath\\BlizzardAutomation\\Data\\Input\\reportEmailTemplate.txt",
+
+	"MaxRetryNumber" : 0,
+	"ExScreenshotsFolderPath" : "Exceptions_Screenshots",
+
+	"LogMessage_GetTransactionData" : "Processing Transaction Number:",
+	"LogMessage_GetTransactionDataError" : "Error getting transaction data for Transaction Number:",
+	"LogMessage_Success" : "Transaction Successful.",
+	"LogMessage_BusinessRuleException" : "Business rule exception.",
+	"LogMessage_ApplicationException" : "System exception.",
+
+	"NYSEWebsite" : "https://www.nyse.com/listings_directory/stock",
+	"NasdaqWebsite" : "https://www.nasdaq.com/"
+}
